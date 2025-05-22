@@ -66,8 +66,8 @@ layers:
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
   layer1:
-  - {t: '`', s: '~'}
-  - '1'
+  - POWER
+  - SLEEP
   - '2'
   - '3'
   - '4'
@@ -81,7 +81,7 @@ layers:
   - $$mdi:backspace-reverse-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '`', s: '~'}
-  - $$mdi:mouse-left-click-outline$$
+  - PRINTSCREEN
   - $$mdi:mouse-scroll-wheel$$
   - $$mdi:mouse-right-click-outline$$
   - '&mkp MB4'
@@ -90,7 +90,7 @@ layers:
   - END
   - $$mdi:arrow-up-bold$$
   - HOME
-  - $$mdi:skip-next$$
+  - '&mkp MB3'
   - +
   - {t: '$$mdi:transfer$$', type: trans}
   - '~'
