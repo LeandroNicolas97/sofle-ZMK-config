@@ -58,7 +58,7 @@
             bindings = <
 &kp K_POWER  &kp K_SLEEP      &kp NUMBER_2     &kp NUMBER_3     &kp NUMBER_4     &kp NUMBER_5       &mmv MOVE_UP     &kp NUMBER_6     &kp NUMBER_7     &kp NUMBER_8     &kp NUMBER_9      &kp F10            &kp DELETE
 &trans       &kp GRAVE        &kp PRINTSCREEN  &mkp MCLK        &mkp RCLK        &mkp MB4           &mmv MOVE_DOWN   &kp PG_UP        &kp END          &kp UP           &kp HOME          &mkp MB3           &kp PLUS
-&trans       &kp TILDE        &trans           &trans           &trans           &mkp MB5           &mmv MOVE_LEFT   &kp PG_DN        &kp LEFT         &kp DOWN         &kp RIGHT         &kp C_PLAY_PAUSE   &kp EQUAL
+&trans       &kp TILDE        &trans           &trans           &trans           &mkp MB5           &mmv MOVE_LEFT   &kp PG_DN        &kp LEFT         &kp DOWN         &kp RIGHT         &mkp RCLK          &kp EQUAL
 &trans       &rgb_ug RGB_OFF  &rgb_ug RGB_ON   &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &rgb_ug RGB_SPI    &mmv MOVE_RIGHT  &rgb_ug RGB_BRI  &rgb_ug RGB_BRD  &rgb_ug RGB_TOG  &rgb_ug RGB_HUI   &rgb_ug RGB_SPD    &kp RETURN
 &kp C_MUTE   &trans           &trans           &trans           &trans           &trans             &mkp LCLK        &trans           &trans           &trans           &kp LEFT_BRACKET  &kp RIGHT_BRACKET
             >;
