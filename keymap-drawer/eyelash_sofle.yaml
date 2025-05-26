@@ -117,7 +117,7 @@ layers:
   - RGB TOG
   - RGB HUI
   - RGB SPD
-  - RGB HUD
+  - RETURN
   - $$mdi:volume-off$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
