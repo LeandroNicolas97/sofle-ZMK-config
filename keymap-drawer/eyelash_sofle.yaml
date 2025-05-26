@@ -103,7 +103,7 @@ layers:
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-right-bold$$
-  - PLAY PAUSE
+  - $$mdi:mouse-right-click-outline$$
   - {t: '=', s: +}
   - {t: '$$mdi:transfer$$', type: trans}
   - RGB OFF
