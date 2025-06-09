@@ -79,7 +79,7 @@ layers:
   - '9'
   - F10
   - $$mdi:backspace-reverse-outline$$
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '''', s: '"'}
   - {t: '`', s: '~'}
   - PRINTSCREEN
   - $$mdi:mouse-scroll-wheel$$
