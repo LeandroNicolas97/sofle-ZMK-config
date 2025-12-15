@@ -82,7 +82,7 @@ layers:
   - {t: '''', s: '"'}
   - {t: '`', s: '~'}
   - PRINTSCREEN
-  - $$mdi:mouse-scroll-wheel$$
+  - '~'
   - $$mdi:mouse-right-click-outline$$
   - '&mkp MB4'
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
